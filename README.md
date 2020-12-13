@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dog2puppy's github stats](https://github-readme-stats.vercel.app/api?username=Dog2puppy&show_icons=true)
+![Dog2puppy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dog2puppy)
+
+📫 How to reach me: 
+Twitter: @Dog2puppyRBLX
